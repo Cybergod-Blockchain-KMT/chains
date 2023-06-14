@@ -1,0 +1,24 @@
+{
+  "name": "Test Net K.M.T",
+  "chain": "K.M.T",
+  "rpc": ["https://312b-5-211-204-55.ngrok-free.app"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "KMT",
+    "symbol": "KM",
+    "decimals": 18
+  },
+  "infoURL": "https://kmtsignal.icu",
+  "shortName": "KMT",
+  "chainId": 1337,
+  "networkId": 1,
+  "icon": "crystal",
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.kmtsignal.icu",
+      "icon": "crystal",
+      "standard": "EIP3091"
+    }
+  ]
+}
